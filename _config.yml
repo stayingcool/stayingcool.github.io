@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
+title: Cayman Blog Theme
+description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+show_downloads: true
